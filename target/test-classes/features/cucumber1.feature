@@ -1,5 +1,5 @@
 @tag
-Feature: Title of your feature
+Feature: Title
 
   @tag1
   Scenario Outline: Title of your scenario
@@ -9,4 +9,4 @@ Feature: Title of your feature
     Examples: 
       | email            |
       | email1@gmail.com |
-      | rajesh@gmail.com |
+      | rajesh@gmail.com | 
